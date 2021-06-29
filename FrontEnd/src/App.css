@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.ui.appJobSeeker.container{
+  margin-top: 6em;
+}
+
+.ui.appEmployer.container{
+  margin-top: 6em;
+}
+
+.ui.appHrmsStaff.container {
+  margin-top: 6em;
+}
